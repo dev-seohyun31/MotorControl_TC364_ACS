@@ -1,0 +1,15 @@
+ACTIVE_CONFIG_NAME=Debug
+AppCompatibilitySet=1
+DEVICE_DESC=Frequency\= 300 MHz  \nPackage\= PG-QFP-144  \nCPUs\= 2 TriCore  \nFlash_Size\= 4 MB  \nDataFlash0_Size\= 128 KB  \nSRAM_Size\= 672 KB  \n
+DEVICE_NAME=TC364Dx_A-Step
+DEVICE_PACKAGE=PG-QFP-144
+DEVICE_PACK_VERSION=0.0.0
+DEVICE_PATH=/DeviceRoot/Microcontrollers/Devices/TC36x Series/TC364Dx_A-Step
+FLASH_SIZE=
+MBS_PROVIDER_ID_KEY=com.dave.mbs.aurix.AURIXTriCoreMbsFactory
+SOFTWARE_ID=TC3.6.4.STD
+TEMPLATE_CODEGEN_DEBUG=disable
+TEMPLATE_KEY=com.ifx.ads2.aurix.appDaveProjectTemplate
+USED_DAVE_VERSIONS=4.4.2
+eclipse.preferences.version=1
+minDaveVersion=4.4.2
